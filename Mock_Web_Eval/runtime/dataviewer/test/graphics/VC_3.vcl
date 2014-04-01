@@ -1,5 +1,5 @@
 0 CLEAR 255 255 255
-0 IMGLOAD TOP_LEFT  ../../library/images/2_tuition.bmp 0 0 1024 768
+0 IMGLOAD TOP_LEFT  ../../library/images/2_login.bmp 0 0 1024 768
 0 IMGLOAD TOP_LEFT ../../runtime/images/-6892943288943472014.png 34 669
 0 IMGLOAD TOP_LEFT ../../runtime/images/5639812475733511570.png 34 632
-0 IMGLOAD TOP_LEFT  ../../runtime/images/-3664522639546184180.png 754 510 17 27
+0 IMGLOAD TOP_LEFT  ../../runtime/images/-3664522639546184180.png 894 527 17 27

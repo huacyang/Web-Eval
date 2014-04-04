@@ -1,0 +1,10 @@
+SCREEN_INSTRUCTION.MULTILINE_TEXT_RESOURCE -9076983642850128389
+INSTRUCTION_CALIBRATION.MULTILINE_TEXT_RESOURCE -5650152169620371847
+-4599251406108508894_Error in building the trial, either  1) The current trial index exceeds the maximum number of trials;  2) Missing clickable area/next page for the page.       Press any key to end the experiment. -5784158956821110263
+-119665975877903693_We are going to perform calibration.  Please look at the central dot on the next screen.  Press any key on the PC keyboard to continue. 5515642195717662837
+hotspot.bmp_19_29 4365132574139889573
+rec_true_255_255_255_255_255_255_1_1024_768 -471492104380388071
+-4383084967792836959_This is a mock web navigation experiment.  Each page only contains a few hot spots.  The mouse cursor changes shape when moved over the hot spots.  Click on one of the hot spot to go to the next page, press E to end the experiment, and press C to recalibrate.              									  If you have finished reading the instruction, press any key to start.      -2973798319640770612
+RUN_TRIALS.DISPLAY_ERROR.MULTILINE_TEXT_RESOURCE 5491114468559756270
+instructions.bmp_720_360 -4441349465419954112
+cursor.bmp_17_27 -3664522639546184180
